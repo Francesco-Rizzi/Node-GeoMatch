@@ -1,7 +1,9 @@
 # Node GeoMatch
 
+## Filter a JSON dataset to return only records located within a given radius from a given point.
+
 ### What does it do?
-It loads a list of JSON records with geo coordinates (`{"latitude" : "X", "longitude" : "Y", ...}`) from a given file.
+It loads a list of JSON records containing geographical coordinates (`{"latitude" : "X", "longitude" : "Y", ...}`) from a given file.
 
 Then checks whether every record in this list is included within a given radius from a given point.
 
