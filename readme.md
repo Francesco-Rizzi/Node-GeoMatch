@@ -2,6 +2,8 @@
 
 ## Filter a JSON dataset to return only records located within a given radius from a given point.
 
+![Node GeoMatch logo](Node-GeoMatch-logo.png?raw=true "Node GFS")
+
 ### What does it do?
 It loads a list of JSON records containing geographical coordinates (`{"latitude" : "X", "longitude" : "Y", ...}`) from a given file.
 
